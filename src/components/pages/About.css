@@ -1,29 +1,140 @@
-*{
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
-.section {
-    position: flex;
-    height: 90vh;
-    font-size: 1.8em;
-    flex-direction: column;
+body{
+    justify-content: center;
     align-items: center;
-    background-color: rgba(133, 190, 255, 0.274);
+    background: #161623;
+    width: 100%;
 }
-.bg{
+.section::before{
+    content: '';
     position: absolute;
-    top: 10vh;
+    top: 0;
     left: 0;
     width: 100%;
-    height: 100vh;
-    z-index: -10;
-    object-fit: cover;
-    
+    height: 100%;
+    background: linear-gradient(#f00,#f0f);
+    clip-path: circle(40% at right 100%);
 }
-.text{
+.section::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(#2196f3,#e91e63);
+    clip-path: circle(20% at 10% 10%);
+}
+.container{
     position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    z-index: 1;
+}
+.container .proCards{
+    position: relative;
+    max-width: 440px;
+    min-height: 270px;
+    margin: 30px;
+    box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.1);
+    overflow: hidden;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+    border-left: 1px solid rgba(255, 255, 255, 0.5);
+    backdrop-filter:blur(5px) ;
+}
+.container .proCards .cardcontainer{
+    padding: 20px;
+    text-align: center;
+    transition: 0.5s ease-in;
+    transform: translateY(100px);
+    opacity: 0;
+    z-index: -1;
+    /* display: none; */
+}
+.container .proCards  img{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+    position: absolute;
+    top: 0;
+    opacity: 1;
+
+
+}
+.container .proCards:hover img{
+    opacity: 0;
+}
+
+.container .proCards:hover .cardcontainer{
+    transform: translateY(30px);
+    opacity: 1;
+    z-index: 999;
+}
+.container .proCards .cardcontainer h2{
+    position: absolute;
+    top: -80px;
+    right: 30px;
+    font-size: 8em;
+    color: rgba(255, 255, 255, 0.1);
+}
+.container .proCards .cardcontainer h3{
+    font-size: 1.8em;
+    color: #fff;
+    z-index: 1;
+}
+.container .proCards .cardcontainer p {
+    font-size: 1em;
+    color: #fff;
+    font-weight: 300;
+}
+.container .proCards .cardcontainer a{
+    position: relative;
+    display: inline-block;
+    padding: 8px 20px ;
+    margin-top: 15px;
+    background: #fff;
+    color: #111;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 500;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+.text {
+    position: relative;
+    text-align: center;
     color: #fff;
     padding: 20px;
     margin: 0px 40px;
+    z-index: 1;
+    font-size: 1.3em;
 }
+
+.subHeading {
+    text-align: center;
+    margin: 30px;
+}
+.projects {
+    position: relative;
+    display: inline-block;
+    color: #111;
+    background: #fff;
+    padding: 8px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
