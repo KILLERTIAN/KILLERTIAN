@@ -9,7 +9,7 @@ function AboutCard(props) {
                     <h2>{props.no}</h2>
                     <h3>{props.noName}</h3>
                     <p>{props.text}</p>
-                    <a href="#">{props.siteText}</a>
+                    <a href={props.href} target='_blank'>{props.siteText}</a>
 
                 </div>
                 <img src={props.src} />

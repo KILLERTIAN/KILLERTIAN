@@ -58,7 +58,7 @@ body{
 .container .proCards .cardcontainer{
     padding: 20px;
     text-align: center;
-    transition: 0.5s ease-in;
+    transition: 0.5s ease-in-out;
     transform: translateY(100px);
     opacity: 0;
     z-index: -1;
@@ -70,12 +70,13 @@ body{
     object-fit: fill;
     position: absolute;
     top: 0;
-    opacity: 1;
 
-
+    transition: opacity 1s ease-out;
 }
 .container .proCards:hover img{
     opacity: 0;
+    display: none;
+    z-index: -1;
 }
 
 .container .proCards:hover .cardcontainer{
@@ -111,6 +112,7 @@ body{
     text-decoration: none;
     font-weight: 500;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
 }
 .text {
     position: relative;
