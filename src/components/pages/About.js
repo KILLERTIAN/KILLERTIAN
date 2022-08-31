@@ -2,7 +2,7 @@ import React from 'react';
 // import '../../App.css';
 import './About.css';
 import AboutCard from './about-card';
-import VanillaTilt from 'react-vanilla-tilt';
+// import VanillaTilt from 'react-vanilla-tilt';
 
 
 // VanillaTilt.init(document.querySelectorAll(".proCards"), {
@@ -40,7 +40,7 @@ function About() {
           <AboutCard
             no='01'
             noName='Project One'
-            text='Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae natus esse, dicta ex eius velit dolorum iste quibusdam distinctio repellat aliquid omnis rerum, officiis consequuntur! Ab facilis suscipit distinctio dignissimos.'
+            text='Simple Pespi Landing page designed mainly using HTML and CSS ans basic Javascript.'
             siteText='Visit Site'
             src="https://user-images.githubusercontent.com/77867638/185983512-499e79db-c773-45e8-bc3b-f8c5957e1cab.png"
             href='https://killertian.github.io/Pepsi-Landing-page/'
@@ -49,7 +49,7 @@ function About() {
           <AboutCard
             no='02'
             noName='Project Two'
-            text='Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae natus esse, dicta ex eius velit dolorum iste quibusdam distinctio repellat aliquid omnis rerum, officiis consequuntur! Ab facilis suscipit distinctio dignissimos.'
+            text='Intermediate use of CSS to create double vertical sliding feature in the project.'
             siteText='Visit Site'
             href='https://killertian.github.io/Double-Vertical-Slider/'
             src="https://user-images.githubusercontent.com/77867638/185458496-bc1d9d2a-6cf3-43d9-bb9a-f6610e44dadd.png"
@@ -57,7 +57,7 @@ function About() {
           <AboutCard
             no='03'
             noName='Project Three'
-            text='Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae natus esse, dicta ex eius velit dolorum iste quibusdam distinctio repellat aliquid omnis rerum, officiis consequuntur! Ab facilis suscipit distinctio dignissimos.'
+            text='Simple KFC Landing Page made using basic HTML,CSS and Javasacript.'
             siteText='Visit Site'
             src="https://user-images.githubusercontent.com/77867638/187237418-70acd4c1-1636-4530-97c7-2ddb9add4938.png"
             href='https://killertian.github.io/KFC/'
@@ -65,7 +65,7 @@ function About() {
           <AboutCard
             no='04'
             noName='Project Four'
-            text='Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae natus esse, dicta ex eius velit dolorum iste quibusdam distinctio repellat aliquid omnis rerum, officiis consequuntur! Ab facilis suscipit distinctio dignissimos.'
+            text='Basic webpage with a use of video as background and nice menu animation using basic HTML,CSS AND JavaScript.'
             siteText='Visit Site'
             src="https://user-images.githubusercontent.com/77867638/185459743-5ae27a49-1d29-4def-a83c-86ce63d87dac.png"
             href='https://killertian.github.io/TRAVEL-Landing-Page/'
