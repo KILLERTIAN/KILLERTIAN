@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
+  <img src="https://media.discordapp.net/attachments/1008571152479826060/1079454615206101154/KILLERTIAN_a_18year_webdeveloper_working_on_desktopsitting_on_c_6dec4f54-d6cf-4fac-bb9b-dabc96dcb777.png?width=904&height=452" width="800" height="400"/>
 </div>
 
 ---
