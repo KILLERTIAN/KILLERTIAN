@@ -26,7 +26,7 @@ function About() {
         <div className="text">
           <h1 className='title'>About Me
           </h1>
-          <p>Hello,I am Om Sharma .I am 17 and like to play games and try out new and amazing things all the time.</p>
+          <p>Hello,I am Om Sharma .I am 18 and like to play games and try out new and amazing things all the time.</p>
           <br />
           <p>This is one of the projects I made to test my skills in spare time .I hope you like my hardwork.</p>
           <div className="subHeading">
