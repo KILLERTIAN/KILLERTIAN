@@ -17,9 +17,9 @@ function Cards() {
               path='/games'
             />
             <CardItem
-              src='images/cod-2.jpg'
-              text='Experience the thrill of Call of Duty on the go. Play as iconic characters in battle royale and multiplayer in our best fps free mobile game.'
-              label='Shooter'
+              src='images/genshin-2.jpg'
+              text='Genshin Impact is an open-world action RPG. In the game, set forth on a journey across a fantasy world called Teyvat.'
+              label='Action | Open World | Role Playing'
               path='/games'
             />
           </ul>
