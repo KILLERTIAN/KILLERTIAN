@@ -28,7 +28,7 @@
 
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m pursuing B-Tech from ADGITM .
+- :telescope: I’m pursuing B-Tech from ADGIPS.
 
 - :seedling: Exploring different languages and field related to Web Development.
 
