@@ -1,5 +1,7 @@
 <div id="header" align="center">
   <h1> HI I AM KILLERTIAN</h1>
+  <h3> KILLERTIAN ? This is what I am known as in games and to me Web Development is just another game. </h3>
+  <h4> Each project moving to higher level defeating Enemies(BUGS & ERRORS) along the way and learning new Skills(Languages/Framework/Techology) to move on to next Level .</h4>
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
 </div>
 
@@ -9,6 +11,9 @@
   </a>
   <a href="https://www.codechef.com/users/omsharma050322">
     <img src="https://img.shields.io/badge/Codechef-white?style=for-the-badge&logo=codechef&logoColor=brown" alt="Code Chef Badge"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01ff42169513e1f3ea">
+    <img src="https://img.shields.io/badge/Upwork-green9?style=for-the-badge&logo=upwork&logoColor=white" alt="UpWork Badge"/>
   </a>
   
 </div>
@@ -28,9 +33,9 @@
 
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m pursuing B-Tech from ADGITM .
+- :telescope: I’m pursuing B-Tech from ADGITM.
 
-- :seedling: Exploring different languages and field related to Web Development.
+- :seedling: Exploring different languages and fields related to Web Development.
 
 - :zap: In my free time, I solve problems on Code Chef and play Games.
 
@@ -41,16 +46,23 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailWind" alt="Tailwind" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?short_path=d0841f2" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+   
+  
 </div>
 
 ---
