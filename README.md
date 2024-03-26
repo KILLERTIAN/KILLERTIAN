@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1> HI I AM KILLERTIAN</h1>
-  <h3> KILLERTIAN ? This is what I am known as in games and to me Web Development is just another game. </h3>
+  <h3> KILLERTIAN? This is what I am known as in games and to me, web development is just another game. </h3>
   <h4> Each project moving to higher level defeating Enemies(BUGS & ERRORS) along the way and learning new Skills(Languages/Framework/Technology) to move on to next Level .</h4>
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
 </div>
